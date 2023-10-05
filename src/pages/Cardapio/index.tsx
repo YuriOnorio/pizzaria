@@ -14,7 +14,7 @@ export default function Cardapio() {
       
       <header className={styles.header}>
         <div className={styles.header__text}>
-          Pizzaria e Restaurant LaCasa
+          Pizzaria Restaurant LaCasa
         </div>
       </header>
 
